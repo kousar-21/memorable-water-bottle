@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "brand": "Hydro Flask",
+      "capacity": 1000,
+      "material": "Stainless Steel",
+      "isReusable": true,
+      "price": 45.99,
+      "weight": 430,
+      "usableFor": 5,
+      "lifeSpan": "5 years",
+      "suitableFor": "hot and cold",
+      "image": "https://example.com/images/hydroflask.jpg"
+    },
+    {
+      "id": 2,
+      "brand": "Nalgene",
+      "capacity": 750,
+      "material": "Plastic",
+      "isReusable": true,
+      "price": 12.5,
+      "weight": 180,
+      "usableFor": 3,
+      "lifeSpan": "3 years",
+      "suitableFor": "cold",
+      "image": "https://example.com/images/nalgene.jpg"
+    },
+    {
+      "id": 3,
+      "brand": "S'well",
+      "capacity": 500,
+      "material": "Stainless Steel",
+      "isReusable": true,
+      "price": 35,
+      "weight": 300,
+      "usableFor": 4,
+      "lifeSpan": "4 years",
+      "suitableFor": "hot and cold",
+      "image": "https://example.com/images/swell.jpg"
+    },
+    {
+      "id": 4,
+      "brand": "Aquafina",
+      "capacity": 1000,
+      "material": "Plastic",
+      "isReusable": false,
+      "price": 1.25,
+      "weight": 40,
+      "usableFor": 0.1,
+      "lifeSpan": "1–2 months",
+      "suitableFor": "cold",
+      "image": "https://example.com/images/aquafina.jpg"
+    },
+    {
+      "id": 5,
+      "brand": "Contigo",
+      "capacity": 700,
+      "material": "Plastic",
+      "isReusable": true,
+      "price": 14.75,
+      "weight": 250,
+      "usableFor": 2,
+      "lifeSpan": "2 years",
+      "suitableFor": "cold",
+      "image": "https://example.com/images/contigo.jpg"
+    }
+  ]
+  
